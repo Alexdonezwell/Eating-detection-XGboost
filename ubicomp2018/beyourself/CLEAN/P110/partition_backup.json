@@ -1,0 +1,38 @@
+{
+   "m0805_1": {
+        "type": "meal",
+        "raw_video": "5-8/DVR___2017-08-05_13.04.28.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:00:00.000",
+        "relative_end": "00:02:50.000",
+        "LED": {
+            "relative":"00:00:03.000",
+            "absolute":"2017-08-05 13:04:30.000",
+            "SYNC": 0
+        }
+    },
+    "m0805_2": {
+        "type": "meal",
+        "raw_video": "5-8/DVR___2017-08-05_13.04.28.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:05:15.143",
+        "relative_end": "00:21:33.181",
+        "LED": {
+            "relative":"00:05:15.143",
+            "absolute":"2017-08-05 15:09:30.000",
+            "SYNC": 0
+        }
+    },
+    "m0806_1": {
+        "type": "meal",
+        "raw_video": "5-8/DVR___2017-08-05_13.04.28.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:22:33.000",
+        "relative_end": "00:26:45.000",
+        "LED": {
+            "relative":"00:22:33.000",
+            "absolute":"2017-08-06 13:15:22.000",
+            "SYNC": 0
+        }
+    }
+}

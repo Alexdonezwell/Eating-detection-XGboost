@@ -1,0 +1,14 @@
+{
+    "m0811_2": {
+        "type": "meal",
+        "raw_video": "11-8/DVR___2017-08-11_07.46.12.AVI.mov",
+        "raw_label": "",
+        "relative_start": "02:10:05.000",
+        "relative_end": "02:25:07.000",
+        "LED": {
+            "relative":"02:10:05.000",
+            "absolute":"2017-08-11 19:05:00.000",
+            "SYNC": 0
+        }
+    }
+}

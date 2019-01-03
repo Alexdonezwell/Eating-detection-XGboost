@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>HABITS SYNC</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link href="//vjs.zencdn.net/5.7.1/video-js.css" rel="stylesheet">
+    <script src="//vjs.zencdn.net/5.7.1/video.js"></script>
+    <script src="//cdn.rawgit.com/erasche/videojs-framebyframe/c9dd2b6bf0e7b527aa505d0e9e19ffe756eb1ee5/video-framebyframe.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="lib/main.css"/>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="lib/popcorn-complete.js"></script>
+
+    <script src="lib/pubsubz.js"></script>
+    <script src="sync.js"></script>
+    <script src="lib/timeseries.js"></script>
+    <script src="lib/labeldata.js"></script>
+    <script src="lib/extrainfo.js"></script>
+    <script src="lib/annotationpoint.js"></script>
+
+
+  </head>
+  <body>
+    <div id="container">
+      <div id="videocamera">
+        <video id="video" class="video-js vjs-default-skin" controls preload="auto" width="640" height="360"
+            data-setup="{}">
+          <source src="video.mp4" type='video/mp4'/>
+        </video>    
+      </div>
+      <div id="extraInfo">
+        <form>
+          Delay:
+          <input type="text" id="videodelay" value="0">
+          <input type="button" id="adjustsync" value="Adjust">
+        </form> 
+      </div>
+    </div>
+    <div id="contents">
+    </div>
+
+    <script type='text/javascript'>
+      var video = videojs("video", {
+        controls: true,
+        autoplay: false,
+        preload: 'auto',
+        plugins: {
+            framebyframe: {
+            fps: 23.98,
+            steps: [
+                { text: '-10s', step: -240 },
+                { text: '-5f', step: -5 },
+                { text: '+5f', step: 5 },
+                { text: '+10s', step: 240 },
+            ]
+            }
+          }
+      });
+    </script>
+  </body>
+</html>

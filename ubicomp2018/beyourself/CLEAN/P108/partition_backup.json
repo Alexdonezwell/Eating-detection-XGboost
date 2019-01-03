@@ -1,0 +1,182 @@
+{
+    "m0804_1": {
+        "type": "meal",
+        "raw_video": "4-8/DVR___2017-08-04_10.02.20.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:13:35.000",
+        "relative_end": "00:17:08.3000",
+        "LED": {
+            "relative":"00:13:35.000",
+            "absolute":"2017-08-04 10:15:55.000",
+            "SYNC": -15000
+        }
+    },
+    "m0804_2": {
+        "type": "meal",
+        "raw_video": "4-8/DVR___2017-08-04_10.02.20.AVI.mov",
+        "raw_label": "",
+        "relative_start": "01:21:56.000",
+        "relative_end": "01:38:52.3000",
+        "LED": {
+            "relative":"01:21:28.000",
+            "absolute":"2017-08-04 17:49:03.000",
+            "SYNC": -7000
+        }
+    },
+    "m0805_2": {
+        "type": "meal",
+        "raw_video": "5-8/DVR___2017-08-05_04.21.36.AVI.mov",
+        "raw_label": "",
+        "relative_start": "01:21:02.000",
+        "relative_end": "01:24:53.3000",
+        "LED": {
+            "relative":"01:21:02.000",
+            "absolute":"2017-08-05 13:29:54.000",
+            "SYNC": -7000
+        }
+    },
+    "m0806_1": {
+        "type": "meal",
+        "raw_video": "6-8/DVR___2017-08-06_11.35.42.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:03:32.000",
+        "relative_end": "00:08:20.3000",
+        "LED": {
+            "relative":"00:03:32.000",
+            "absolute":"2017-08-06 11:39:14.000",
+            "SYNC": -8000
+        }
+    },
+    "m0806_2": {
+        "type": "meal",
+        "raw_video": "6-8/DVR___2017-08-06_11.35.42.AVI.mov",
+        "raw_label": "",
+        "relative_start": "01:07:40.000",
+        "relative_end": "01:22:32.3000",
+        "LED": {
+            "relative":"01:08:40.000",
+            "absolute":"2017-08-06 17:24:57.000",
+            "SYNC": 14000
+        }
+    },
+    "m0807_1_a": {
+        "type": "meal",
+        "raw_video": "7-8/DVR___2017-08-07_19.55.36.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:02:48.000",
+        "relative_end": "00:11:21.3000",
+        "LED": {
+            "relative":"00:02:48.000",
+            "absolute":"2017-08-07 19:58:23.000",
+            "SYNC": -10000
+        }
+    },
+    "m0807_1_b": {
+        "type": "meal",
+        "raw_video": "7-8/DVR___2017-08-07_19.55.36.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:11:21.300",
+        "relative_end": "00:17:42.000",
+        "LED": {
+            "relative":"00:17:42.000",
+            "absolute":"2017-08-07 20:18:54.000",
+            "SYNC": -10000
+        }
+    },
+    "m0808_1": {
+        "type": "meal",
+        "raw_video": "8-8/DVR___2017-08-08_21.54.28.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:07:00.000",
+        "relative_end": "00:27:25.000",
+        "LED": {
+            "relative":"00:07:00.000",
+            "absolute":"2017-08-08 22:01:31.000",
+            "SYNC": -12000
+        }
+    },
+    "m0809_1": {
+        "type": "meal",
+        "raw_video": "9-8/DVR___2017-08-09_09.17.21.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:58:51.000",
+        "relative_end": "01:15:37.000",
+        "LED": {
+            "relative":"00:58:51.000",
+            "absolute":"2017-08-09 15:17:00.000",
+            "SYNC": 0
+        }
+    },
+    "m0810_2": {
+        "type": "meal",
+        "raw_video": "10-8/DVR___2017-08-10_09.17.56.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:02:23.000",
+        "relative_end": "00:15:04.000",
+        "LED": {
+            "relative":"00:01:56.000",
+            "absolute":"2017-08-10 09:19:52.000",
+            "SYNC": -7000
+        }
+    },
+    "m0811_1": {
+        "type": "meal",
+        "raw_video": "11-8/DVR___2017-08-11_20.00.38.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:11:58.000",
+        "relative_end": "01:33:28.000",
+        "LED": {
+            "relative":"00:11:58.000",
+            "absolute":"2017-08-11 20:12:37.000",
+            "SYNC": 0
+        }
+    },
+    "m0812_1": {
+        "type": "meal",
+        "raw_video": "12-8/DVR___2017-08-12_08.11.39.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:00:42.000",
+        "relative_end": "00:03:16.000",
+        "LED": {
+            "relative":"00:00:42.000",
+            "absolute":"2017-08-12 08:12:17.000",
+            "SYNC": -2000
+        }
+    },
+    "m0812_2": {
+        "type": "meal",
+        "raw_video": "12-8/DVR___2017-08-12_08.11.39.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:29:49.000",
+        "relative_end": "00:58:38.000",
+        "LED": {
+            "relative":"00:29:49.000",
+            "absolute":"2017-08-12 22:19:02.000",
+            "SYNC": 0
+        }
+    },
+    "m0813_1": {
+        "type": "meal",
+        "raw_video": "13-8/DVR___2017-08-13_10.20.54.AVI.mov",
+        "raw_label": "",
+        "relative_start": "01:38:58.000",
+        "relative_end": "01:48:58.000",
+        "LED": {
+            "relative":"01:35:10.000",
+            "absolute":"2017-08-13 20:50:26.000",
+            "SYNC": -8000
+        }
+    },
+    "m0814_1": {
+        "type": "meal",
+        "raw_video": "14-8/DVR___2017-08-14_08.33.21.AVI.mov",
+        "raw_label": "",
+        "relative_start": "02:09:24.000",
+        "relative_end": "02:25:29.000",
+        "LED": {
+            "relative":"02:24:32.000",
+            "absolute":"2017-08-14 15:56:08.000",
+            "SYNC": -6000
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "m0703_1": {
+        "type": "meal",
+        "raw_video": "2-7/DVR___2017-07-02_16.55.26.AVI.mov",
+        "raw_label": "",
+        "relative_start": "00:23:40.000",
+        "relative_end": "00:29:11.000",
+        "LED": {
+            "relative":"00:11:59.000",
+            "absolute":"2017-07-02 21:05:57.000",
+            "SYNC": 0
+        }
+    }
+}

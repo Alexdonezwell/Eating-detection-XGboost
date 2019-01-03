@@ -1,0 +1,8 @@
+raw_folder:
+  "/Volumes/HABITS/BeYourself-final/RAW"
+tmp_folder:
+  "/Volumes/HABITS/BeYourself-final/TEMP"
+clean_folder:
+  "/Volumes/HABITS/BeYourself-final/CLEAN"
+anno_folder:
+  "/Volumes/HABITS/BeYourself-final/BeYourselfSyncedLabeling/watch"
